@@ -12,3 +12,5 @@ def discounted(price, discount, max_discount=20):
 
 print(discounted(100, 50))
 print(discounted(100, 50, max_discount=60))
+
+test github
